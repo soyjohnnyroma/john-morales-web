@@ -25,3 +25,7 @@ La página utiliza tres fotografías proporcionadas para esta propuesta: retrato
 - Experiencia: 10 años.
 - Cobertura: Cali, Jamundí, Candelaria y sectores cercanos, previa coordinación.
 - Dirección exacta: no publicada.
+
+
+## Galería y logotipo (v3)
+Las tres fotografías se pueden ampliar en un visor con controles anterior/siguiente y cierre. El logotipo JM aparece en el encabezado y el pie de página. Las imágenes se muestran completas, sin recortes intencionales del rostro.
